@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+sklearn
+lightgbm
+bs4
+nltk
+keras
+tensorflow
