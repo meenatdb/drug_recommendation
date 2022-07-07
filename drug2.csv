@@ -1,0 +1,35 @@
+﻿condition,drug,score
+Impetigo,mupirocin,10
+Impetigo,retapamulin,9
+(vertigo) Paroymsal  Positional Vertigo,prochlorperazine,10
+Hypoglycemia,dextrose,10
+Hypoglycemia,glucagon injection,9
+Dimorphic hemmorhoids(piles),Mezaparox,10
+Alcoholic hepatitis,pentoxifylline,10
+Alcoholic hepatitis,corticosteroids,9
+hepatitis A,acetaminophen,10
+Hepatitis D,pegylated interferon alfa (peg-IFNa),10
+Hepatitis E,ribavirin,10
+Dengue,aspirin,10
+Dengue,ibuprofen,9
+Dengue,naproxen sodium,8
+Dengue,acetaminophen,8
+Chicken pox,valacyclovir (Valtrex),10
+Chicken pox,acyclovir (Zovirax) ,9
+Jaundice,Ceftriaxone,10
+Jaundice,Tin mesoporphyrin (SnMp),9
+Paralysis (brain hemorrhage),Cyklokapron,10
+Paralysis (brain hemorrhage),Methergine,9
+Paralysis (brain hemorrhage),Amicar,9
+Cervical spondylosis,Ibuprofen,10
+Cervical spondylosis,naproxen sodium,9
+Cervical spondylosis,acetaminophen,8
+Hypertension ,thiazide diuretics,10
+Fungal infection,Amorolfine,10
+Chronic cholestasis,amoxicillin,10
+Chronic cholestasis,clavulanate,10
+Drug Reaction,Antihistamines,10
+Peptic ulcer diseae,amoxicillin,10
+Peptic ulcer diseae,clarithromycin,9
+Peptic ulcer diseae,metronidazole,9
+AIDS,Trimethoprim-sulfamethizole,10
